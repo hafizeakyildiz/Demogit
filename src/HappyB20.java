@@ -4,7 +4,7 @@ public class HappyB20 {
          int b = 20;
 
          int sum = a+ b;
-
+//      System.out.println(a);
         System.out.println(sum);
 
 
